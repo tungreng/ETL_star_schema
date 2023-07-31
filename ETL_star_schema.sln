@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "ETL_star_schema", "ETL_star_schema\ETL_star_schema.dtproj", "{991B99D9-04E9-4C32-8056-6A7D013521FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{991B99D9-04E9-4C32-8056-6A7D013521FD}.Development|Default.ActiveCfg = Development
+		{991B99D9-04E9-4C32-8056-6A7D013521FD}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63BE381C-FF89-4864-8596-6FD4066076B6}
+	EndGlobalSection
+EndGlobal
